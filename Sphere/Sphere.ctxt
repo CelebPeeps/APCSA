@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Sphere
+comment0.text=\n\ This\ class\ calculates\ the\ circumference,\ surface\ area,\ and\ volumn\ \n\ of\ a\ sphere\ of\ the\ provided\ radius.\n\n\ @author\ \ (your\ name)\n\ @version\ (today's\ date)\n
+comment1.params=radius
+comment1.target=double\ circumference(int)
+comment2.params=radius
+comment2.target=double\ surfaceArea(int)
+comment3.params=radius
+comment3.target=double\ volume(int)
+numComments=4
