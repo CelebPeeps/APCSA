@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tetrad
+comment0.text=\n\ Tetrad\ class\ to\ be\ completed\ for\ Tetris\ project\n\ \n\ @author\ \ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=grid
+comment1.target=Tetrad(Grid)
+comment2.params=grid\ locations
+comment2.target=void\ addToLocations(Grid,\ Location[])
+comment3.params=
+comment3.target=Location[]\ removeBlocks()
+comment4.params=grid\ locations
+comment4.target=boolean\ areEmpty(Grid,\ Location[])
+comment5.params=deltaRow\ deltaCol
+comment5.target=boolean\ translate(int,\ int)
+comment6.params=
+comment6.target=boolean\ rotate()
+numComments=7

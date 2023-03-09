@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Block
+comment0.text=\n\ Block\ class\ to\ be\ completed\ for\ Tetris\ project\n\ \n\ @author\ \ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Block()
+comment2.params=
+comment2.target=java.awt.Color\ getColor()
+comment3.params=newColor
+comment3.target=void\ setColor(java.awt.Color)
+comment4.params=
+comment4.target=Grid\ getGrid()
+comment5.params=
+comment5.target=Location\ getLocation()
+comment6.params=
+comment6.target=void\ removeSelfFromGrid()
+comment7.params=grid\ location
+comment7.target=void\ putSelfInGrid(Grid,\ Location)
+comment8.params=newLocation
+comment8.target=void\ moveTo(Location)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

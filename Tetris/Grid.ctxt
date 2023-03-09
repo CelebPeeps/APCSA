@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Grid
+comment1.params=rows\ cols
+comment1.target=Grid(int,\ int)
+comment2.params=
+comment2.target=int\ getNumRows()
+comment3.params=
+comment3.target=int\ getNumCols()
+comment4.params=location
+comment4.target=Block\ get(Location)
+comment5.params=location\ block
+comment5.target=Block\ put(Location,\ Block)
+comment6.params=location
+comment6.target=boolean\ isValid(Location)
+comment7.params=location
+comment7.target=Block\ remove(Location)
+numComments=8
