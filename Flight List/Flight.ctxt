@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Flight
+comment0.text=\n\ Write\ a\ description\ of\ class\ Flight\ here.\n\n\ @author\ \ Caleb\ Wang\n\ @version\ 3/15/23\n
+comment1.params=f\ d\ a
+comment1.target=Flight(java.lang.String,\ Time,\ Time)
+comment2.params=f\ d\ a
+comment2.target=void\ setFlight(java.lang.String,\ Time,\ Time)
+comment3.params=
+comment3.target=Time\ getDepartureTime()
+comment4.params=
+comment4.target=Time\ getArrivalTime()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
