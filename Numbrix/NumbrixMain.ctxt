@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NumbrixMain
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Constructs\ a\ Numbrix\ object\ and\ uses\ it\ to\ solve\ a\ Numbrix\ puzzle.\n\ @throws\ FileNotFoundException\ when\ fileName\ file\ does\ not\ exist.\n
+numComments=2
