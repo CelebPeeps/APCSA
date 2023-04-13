@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ApartmentBuilding
+comment0.text=\n\ Write\ a\ description\ of\ class\ apartmentBuilding\ here.\n\n\ @author\ \ (your\ name\ here)\n\ @version\ (today's\ date)\n
+comment1.params=a\ ap
+comment1.target=ApartmentBuilding(java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ amountOwed()
+numComments=3
