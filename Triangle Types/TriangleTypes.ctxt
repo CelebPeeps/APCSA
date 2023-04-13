@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TriangleTypes
+comment0.text=\n\ This\ class\ classifies\ various\ triangle\ types\n\n\ @author\ Caleb\ Wang\n\ @version\ September\ 29,\ 2022\n
+comment1.params=a\ b\ c
+comment1.target=boolean\ isEquilateral(int,\ int,\ int)
+comment2.params=a\ b\ c
+comment2.target=boolean\ isIsoceles(int,\ int,\ int)
+comment3.params=a\ b\ c
+comment3.target=boolean\ isScalene(int,\ int,\ int)
+comment4.params=a\ b\ c
+comment4.target=boolean\ isRight(int,\ int,\ int)
+comment5.params=a\ b\ c
+comment5.target=boolean\ isTriangle(int,\ int,\ int)
+numComments=6
