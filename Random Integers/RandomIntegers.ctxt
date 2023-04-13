@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RandomIntegers
+comment0.text=\n\ This\ class\ represents\ a\ variety\ of\ methods\ that\ generate\ random\ integer\ values\n\ \n\ @author\ \n\ @version\ \n
+comment1.params=n
+comment1.target=int\ randomInteger(int)
+comment1.text=\ Returns\ a\ random\ integer\ from\ 0\ to\ n\ -\ 1\n\ @param\ n\ the\ upper\ limit\ (exclusive)\n\ Precondition\:\ n\ >\ 0\n\ @return\ a\ random\ integer\ from\ 0\ to\ n\ -\ 1\n
+comment2.params=start\ end
+comment2.target=int\ randomInteger(int,\ int)
+comment2.text=\ Returns\ a\ random\ integer\ from\ 'start'\ to\ 'end'\ (inclusive)\n\ @param\ start\ the\ lower\ limit\ of\ random\ numbers\ (inclusive)\n\ @param\ end\ the\ upper\ limit\ of\ random\ numbers\ (inclusive)\n\ Precondition\:\ 0\ <\=\ start\ <\=\ end\n\ @return\ a\ random\ integer\ from\ 'start'\ to\ 'end'\ (inclusive)\n
+comment3.params=count\ span\ start
+comment3.target=int\ randomInteger(int,\ int,\ int)
+comment3.text=\ Returns\ one\ of\ 'count'\ integers\ spaced\ 'span'\ units\ apart\ beginning\ at\ 'start'.\n\ For\ example,\ the\ call\ randomInteger(5,\ 20,\ 10)\ would\ randomly\ generate\n\ one\ of\ the\ following\ integers\ [10,\ 30,\ 50,\ 70,\ 90].\ In\ this\ example\n\ there\ are\ a\ total\ five\ possibilities\ (count),\ \n\ spaced\ 20\ numbers\ apart\ (span),\n\ beginning\ at\ (start).\n\ @param\ count\ the\ amount\ of\ possible\ random\ numbers\n\ @param\ span\ how\ far\ apart\ are\ each\ possible\ random\ number\n\ @param\ start\ the\ lower\ limit\ of\ random\ numbers\ (inclusive)\n\ Precondition\:\ count\ >\ 0,\ span\ >\ 0,\ and\ start\ >\=\ 0\n\ @return\ one\ of\ 'count'\ integers\ spaced\ 'span'\ units\ apart\ beginning\ at\ 'start'\n
+numComments=4
