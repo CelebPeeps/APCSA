@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TileGame
+comment1.params=
+comment1.target=TileGame()
+comment2.params=tile
+comment2.target=int\ getIndexForFit(NumberTile)
+comment2.text=\ Determines\ where\ to\ insert\ tile,\ in\ its\ current\ orientation,\ into\ game\ board.\n\ \ @param\ tile\ the\ tile\ to\ be\ placed\ on\ the\ game\ board\n\ \ @return\ the\ position\ of\ tile\ where\ tile\ is\ to\ be\ inserted\:\n\ \ \ \ \ \ \ \ 0\ if\ the\ board\ is\ empty;\n\ \ \ \ \ \ \ -1\ if\ tile\ does\ not\ fit\ in\ front,\ at\ end,\ or\ between\ any\ existing\ tiles;\n\ \ \ \ \ \ \ \ otherwise,\ 0\ <\=\ position\ returned\ <\=\ board.size()\n
+comment3.params=tile
+comment3.target=boolean\ insertTile(NumberTile)
+comment3.text=\ Places\ tile\ on\ the\ game\ board\ if\ it\ fits\ (checking\ all\ possible\ orientations\ if\ necessary.\n\ \ If\ there\ are\ no\ tiles\ on\ the\ game\ board,\ the\ tile\ is\ placed\ at\ position\ 0.\n\ \ The\ tile\ should\ be\ placed\ at\ most\ 1\ time.\n\ \ Precondition\:\ board\ is\ not\ null\n\ \ @param\ tile\ the\ tile\ to\ be\ placed\ on\ the\ game\ board\n\ \ @return\ true\ if\ tile\ is\ placed\ successfully;\ false\ otherwise\n\ \ Postcondition\:\ the\ orientation\ of\ the\ other\ tiles\ on\ the\ board\ are\ not\ changed.\n\ \ Postcondition\:\ the\ order\ of\ the\ other\ tiles\ on\ the\ board\ relative\ to\ each\ other\ is\ not\ changed.\n
+numComments=4

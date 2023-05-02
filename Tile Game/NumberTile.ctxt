@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NumberTile
+comment0.text=\n\ This\ class\ represents\ a\ square\ number\ tile\ with\ an\ integer\ value\n\ located\ on\ the\ top,\ right,\ bottom,\ and\ left\ sides\ of\ the\ tile\n\ \n\ @author\ Tom\ Bredemeier\n\ @version\ March\ 9,\ 2011\n
+comment1.params=t\ r\ b\ l
+comment1.target=NumberTile(int,\ int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ NumberTile\n
+comment2.params=
+comment2.target=void\ rotate()
+comment2.text=\n\ Rotates\ the\ tile\ 90\ degrees\ clockwise\n
+comment3.params=
+comment3.target=int\ getLeft()
+comment3.text=\n\ @return\ value\ at\ left\ edge\ of\ tile\n
+comment4.params=
+comment4.target=int\ getRight()
+comment4.text=\n\ @return\ value\ at\ right\ edge\ of\ tile\n
+numComments=5
