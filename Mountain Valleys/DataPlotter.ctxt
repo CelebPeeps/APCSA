@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DataPlotter
+comment0.text=\n\ This\ DataPlotter\ object\ reads\ a\ space\ delimited\ text\ file\ of\ elevations\n\ and\ plots\ the\ result\ as\ a\ range\ of\ greyscale\ images,\ and\ then\ calculates\ \n\ and\ plots\ the\ steepest\ downward\ path\ from\ each\ location\ in\ the\ image.\n\ \n\ @author\ \ Caleb\ Wang\n\ @version\ April\ 13,\ 2023\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fileName
+comment2.target=void\ readValues(java.lang.String)
+comment3.params=
+comment3.target=void\ plotData()
+comment4.params=x\ y
+comment4.target=void\ plotDownhillPath(int,\ int)
+comment5.params=
+comment5.target=void\ plotAllPaths()
+numComments=6
