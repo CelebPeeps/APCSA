@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SelfDivisor
+comment0.text=\n\ Write\ a\ description\ of\ class\ SelfDivisor\ here.\n\n\ @author\ \ (your\ name\ here)\n\ @version\ (today's\ date)\n
+comment1.params=number
+comment1.target=boolean\ isSelfDivisor(int)
+comment2.params=start\ num
+comment2.target=int[]\ firstNumSelfDivisors(int,\ int)
+numComments=3
