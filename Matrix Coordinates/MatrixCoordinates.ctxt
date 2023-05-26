@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MatrixCoordinates
+comment0.text=\n\ This\ class\ creates\ a\ String\ representation\ of\ a\ matrix\ of\ (x,y)\ coordinates\n\ of\ 'rows'\ rows\ and\ 'cols'\ columns,\ both\ in\ normal\ order,\ and\ reverse\ order.\n\n\ @author\ (your\ name)\n\ @version\ (today's\ date)\n
+comment1.params=rows\ cols
+comment1.target=java.lang.String\ normalOrder(int,\ int)
+comment2.params=rows\ cols
+comment2.target=java.lang.String\ reverseOrder(int,\ int)
+numComments=3
