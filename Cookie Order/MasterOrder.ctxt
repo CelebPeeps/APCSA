@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MasterOrder
+comment1.params=
+comment1.target=MasterOrder()
+comment1.text=Constructs\ a\ new\ MasterOrder\ object
+comment2.params=theOrder
+comment2.target=void\ addOrder(CookieOrder)
+comment2.text=\ Add\ theOrder\ to\ the\ Master\ order.\n\ @param\ theOrder\ the\ cookie\ order\ to\ add\ to\ the\ master\ order\n
+comment3.params=index
+comment3.target=CookieOrder\ getOrder(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ getTotalBoxes()
+comment5.text=@return\ the\ sum\ of\ the\ number\ of\ boxes\ of\ all\ the\ cookie\ orders
+comment6.params=cookieVar
+comment6.target=int\ removeVariety(java.lang.String)
+comment6.text=\ Removes\ all\ cookie\ orders\ from\ the\ master\ order\ that\ have\ the\ same\n\ variety\ of\ cookie\ as\ cookieVar\ and\ returns\ the\ total\ number\ of\ boxes\n\ that\ were\ removed.\n\ @param\ cookieVar\ the\ variety\ of\ cookies\ to\ remove\ from\ the\ master\ order\n\ @return\ the\ total\ number\ of\ boxes\ of\ cookieVar\ in\ the\ cookie\ orders\ removed\n
+numComments=7
