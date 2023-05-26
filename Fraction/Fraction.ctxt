@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Fraction
+comment0.text=\n\ Shell\ class\ for\ 3.04\ Project\ ("Fraction")\n\ Represents\ fractions\ and\ fraction\ arithmetic\n\ \n\ @author\ \ (put\ your\ name\ here)\n\ @version\ (put\ the\ date\ here)\n
+comment1.params=
+comment1.target=Fraction()
+comment10.params=
+comment10.target=Fraction\ simplify()
+comment2.params=n\ d
+comment2.target=Fraction(int,\ int)
+comment3.params=
+comment3.target=int\ getNumerator()
+comment4.params=
+comment4.target=int\ getDenominator()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=other
+comment6.target=Fraction\ multiply(Fraction)
+comment7.params=other
+comment7.target=Fraction\ divide(Fraction)
+comment8.params=other
+comment8.target=Fraction\ add(Fraction)
+comment9.params=other
+comment9.target=Fraction\ subtract(Fraction)
+numComments=11
