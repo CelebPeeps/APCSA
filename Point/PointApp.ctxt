@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PointApp
+comment0.text=\n\ Write\ a\ description\ of\ class\ PointApp\ here.\n\n\ @author\ (your\ name)\n\ @version\ (today's\ date)\n
+comment1.params=point0\ point1\ point2
+comment1.target=Point\ findFarPoint(Point,\ Point,\ Point)
+numComments=2
