@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=APCircle
+comment0.text=\n\ Write\ a\ description\ of\ class\ APCircle\ here.\n\n\ Caleb\ Wang\n\ 11/3/2022\n
+comment1.params=h\ k\ r
+comment1.target=APCircle(int,\ int,\ int)
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=x\ y
+comment3.target=boolean\ isOnCircle(int,\ int)
+numComments=4
