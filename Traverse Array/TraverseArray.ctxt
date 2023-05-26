@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TraverseArray
+comment0.text=\n\ This\ class\ creates\ a\ String\ representation\ of\ an\ array\ of\ integer\ values\n\ both\ in\ normal\ order,\ and\ reverse\ order,\ plus\ the\ sum\ of\ elements\ of\ the\ array.\n\n\ @author\ Mr.\ B\!\n\ @version\ October\ 27,\ 2022\n
+comment1.params=array
+comment1.target=java.lang.String\ normalOrder(int[])
+comment1.text=\n\ Traverses\ array\ in\ normal\ order\ (from\ beginning\ index\ to\ end),\ appending\n\ each\ integer\ value\ to\ the\ String\ to\ be\ returned.\ Each\ integer\ value\ in\n\ the\ String\ is\ followed\ by\ a\ single\ blank\ space\ (to\ separate\ each\ value).\n
+comment2.params=array
+comment2.target=java.lang.String\ reverseOrder(int[])
+comment2.text=\n\ Traverses\ array\ in\ reverse\ order\ (from\ end\ index\ to\ beginning),\ appending\n\ each\ integer\ value\ to\ the\ String\ to\ be\ returned.\ Each\ integer\ value\ in\n\ the\ String\ is\ followed\ by\ a\ single\ blank\ space\ (to\ separate\ each\ value).\n
+comment3.params=array
+comment3.target=int\ sum(int[])
+comment3.text=\n\ Traverses\ array,\ adding\ up\ each\ integer\ value,\ and\ returning\ the\ total.\n
+numComments=4
