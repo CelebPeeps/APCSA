@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ItemCounter
+comment0.text=\n\ Write\ a\ description\ of\ class\ itemCounter\ here.\n\n\ @author\ (your\ name)\n\ @version\ (today's\ date)\n
+comment1.params=phrase\ item
+comment1.target=int\ itemCounter(java.lang.String,\ java.lang.String)
+numComments=2
