@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=APLine
+comment0.text=\n\ Write\ a\ description\ of\ class\ APLine\ here.\n\n\ Caleb\ Wang\n\ 11/7/2022\n
+comment1.params=a\ b\ c
+comment1.target=APLine(int,\ int,\ int)
+comment2.params=
+comment2.target=double\ getSlope()
+comment3.params=x\ y
+comment3.target=boolean\ isOnLine(int,\ int)
+numComments=4
