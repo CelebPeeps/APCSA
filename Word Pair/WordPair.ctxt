@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WordPair
+comment1.params=first\ second
+comment1.target=WordPair(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFirst()
+comment3.params=
+comment3.target=java.lang.String\ getSecond()
+numComments=4
