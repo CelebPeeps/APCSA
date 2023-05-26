@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ClimbingClub
+comment0.text=\n\ This\ class\ represents\ a\ list\ of\ the\ climbs\ by\ the\ members\n\ of\ a\ climbing\ club.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ClimbingClub()
+comment1.text=Creates\ a\ new\ ClimbingClub\ object.
+comment2.params=peakName\ climbTime
+comment2.target=void\ addClimb(java.lang.String,\ int)
+comment2.text=\ Adds\ a\ new\ climb\ with\ name\ peakName\ and\ time\ climbTime\ to\ the\ list\ of\ climbs.\n\ @param\ peakName\ the\ name\ of\ the\ mountain\ peak\ climbed\n\ @param\ climbTime\ the\ number\ of\ minutes\ taken\ to\ complete\ the\ climb\n
+comment3.params=
+comment3.target=int\ distinctPeakNames()
+comment3.text=@return\ the\ number\ of\ distinct\ names\ in\ the\ list\ of\ climbs
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ClimbInfo
+comment0.text=\n\ This\ class\ represents\ a\ mountain\ climbing\ event\n\n\ @author\ Caleb\ Wang\n\ @version\ 2/6/2022\n
+comment1.params=peakName\ climbMinutes
+comment1.target=ClimbInfo(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getTime()
+numComments=4
