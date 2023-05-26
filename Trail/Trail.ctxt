@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Trail
+comment0.text=\n\ This\ Trail\ object\ .\ .\ .\n\ \n\ @author\ \ \n\ @version\ \n
+comment1.params=trail
+comment1.target=Trail(int[])
+comment2.params=start\ end
+comment2.target=boolean\ isLevelTrailSegment(int,\ int)
+comment2.text=\ Determines\ if\ a\ trail\ segment\ is\ level.\ A\ trail\ segment\ is\ defined\ by\ a\ starting\ marker,\n\ an\ ending\ marker,\ and\ all\ markers\ between\ those\ two\ markers.\n\ A\ trail\ segment\ is\ level\ if\ it\ has\ a\ difference\ between\ the\ maximum\ elevation\n\ and\ minimum\ elevation\ that\ is\ less\ than\ or\ equal\ to\ 10\ meters.\n\ @param\ start\ the\ index\ of\ the\ starting\ marker\n\ @param\ end\ the\ index\ of\ the\ ending\ marker\n\ Precondition\:\ 0\ <\=\ start\ <\ end\ <\=\ markers.length\ -\ 1\n\ @return\ true\ if\ the\ difference\ between\ the\ maximum\ and\ minimum\n\ elevation\ on\ this\ segment\ of\ the\ trail\ is\ less\ than\ or\ equal\ to\ 10\ meters;\n\ false\ otherwise.\n
+comment3.params=
+comment3.target=boolean\ isDifficult()
+comment3.text=\ Determines\ if\ this\ trail\ is\ rated\ difficult.\ A\ trail\ is\ rated\ by\ counting\ the\ number\ of\ changes\n\ in\ elevation\ that\ are\ at\ least\ 30\ meters\ (up\ or\ down)\ between\ two\ consecutive\ markers.\ A\ trail\n\ with\ 3\ or\ more\ such\ changes\ is\ rated\ difficult.\n\ @return\ true\ if\ the\ trail\ is\ rated\ difficult;\ false\ otherwise.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
